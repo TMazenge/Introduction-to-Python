@@ -1,0 +1,64 @@
+ Inside Out,2015,PG,95,Animation,Pete Docter,Amy Poehler+Bill Hader+Lewis Black,94
+Fight Club,1999,R,139,Drama,David Fincher,Brad Pitt+Edward Norton,66
+Mean Girls,2004,PG-13,97,Comedy,Mark Waters,Lindsay Lohan+Rachel McAdams,66
+Guardians of the Galaxy,2014,PG-13,121,Action,James Gunn,Chris Pratt+Vin Diesel+Bradley Cooper,76
+The Avengers,2012,PG-13,143,Action,Joss Whedon,Robert Downey Jr.+Chris Evans+Scarlett Johansson,69
+The Hunger Games,2012,PG-13,142,Sci-Fi,Gary Ross,Jennifer Lawrence+Josh Hutcherson+Liam Hemsworth,68
+Silver Linings Playbook,2012,R,122,Drama,David O. Russell,Bradley Cooper+Jennifer Lawrence+Rober De Niro,81
+Interstellar,2014,PG-13,169,Sci-Fi,Christopher Nolan,Matthew McConaughey+Anne Hathaway+Jessica Chastain,74
+Batman Begins,2005,PG-13,140,Action,Christopher Nolan,Christian Bale+Michael Caine+Ken Watanabe,70
+The Princess Bride,1987,PG,98,Comedy,Rob Reiner,Cary Elwes+Mandy Patinkin+Robin Wright,77
+Say Anything,1989,PG-13,100,Romance,Cameron Crowe,John Cusack+Ione Skye+John Mahoney,86
+Zootopia,2016,PG,108,Animation,Byron Howard,Ginnifer Goodwin+Jason Bateman+Idris Elba,78
+27 Dresses,2008,PG-13,111,Romance,Anne Fletcher,Katherine Heigl+James Marsden+Malin Akerman,47
+The Hangover,2009,R,100,Comedy,Todd Phillips,Zach Galifianakis+Bradley Cooper+Justin Bartha,73
+American Hustle,2013,R,138,Drama,David O. Russell,Christian Bale+Amy Adams+Bradley Cooper+Jennifer Lawrence,90
+Enchanted,2007,PG,107,Comedy,Kevin Lima,Amy Adams+Susan Sarandon+James Marsden,75
+Bridesmaids,2011,R,125,Comedy,Paul Feig,Kristen Wiig+Maya Rudolph+Rose Byrne+Melissa McCarthy,75
+Neighbors,2014,R,97,Comedy,Nicholas Stoller,Seth Rogen+Rose Byrne+Zac Efron,68
+Spy,2015,R,119,Comedy,Paul Feig,Melissa McCarthy+Rose Byrne+Jude Law,75
+V for Vendetta,2005,R,132,Thriller,James McTeigue,Hugo Weaving+Natalie Portman+Rupert Graves,62
+No String Attached,2011,R,108,Romance,Ivan Reitman,Natalie Portman+Ashton Kutcher+Kevin Kline,50
+Finding Nemo,2003,G,100,Animation,Andrew Stanton,Albert Broooks+Ellen DeGeneres+Alexander Gould,90
+Titanic,1997,PG-13,194,Romance,James Cameron,Leonardo DiCaprio+Kate Winslet,74
+Avatar,2009,PG-13,162,Adventure,James Cameron,Sam Worthington+Zoe Saldana+Sigourney Weaver,83
+The Revenant,2015,R,156,Thriller,Alejandro G Inarritu,Leonardo DiCaprio+Tom Hardy+Will Poulter,76
+The Departed,2006,R,151,Thriller,Martin Scorcese,Leonardo DiCaprio+Matt Damon+Jack Nicholson,86
+The Wolf of Wall Street,2013,R,180,Comedy,Martin Scorcese,Leonardo DiCaprio+Jonah Hill+Margot Robbie,75
+22 Jump Street,2014,R,102,Comedy,Phil Lord,Channing Tatum+Jonah Hill+Ice Cube,71
+Step Up,2006,PG-13,104,Drama,Anne Fletcher,Channing Tatum+Jenna Dewan Tatum+Damaine Radcliff,48
+The Fault in Our Stars,2014,PG-13,126,Romance,Josh Boone,Shailene Woodley+Ansel Elgort+Nat Wolff,69
+Saving Private Ryan,1998,R,169,Drama,Steven Spielberg,Tom Hanks+Matt Damon+Tom Sizemore,90
+The Martian,2015,PG-13,144,Sci-Fi,Ridley Scott,Matt Damon+Jessica Chastain+Kristen Wiig,80
+Forrest Gump,1994,PG-13,142,Drama,Robert Zemeckis,Tom Hanks+Robin Wright+Gary Sinise,82
+Good Will Hunting,1997,R,126,Drama,Gus Van Zant,Robin Williams+Matt Damon+Ben Affleck,70
+Toy Story,1995,G,81,Animation,John Lasseter,Tom Hanks+Tim Allen+Don Rickles,92
+Frozen,2013,PG,102,Animation,Jennifer Lee,Kristen Bell+Idina Menzel+Jonathon Groff,74
+Forgetting Sarah Marshall,2008,R,111,Comedy,Nicholas Stoller,Kristen Bell+Jason Segel+Paul Rudd,67
+Watchmen,2009,R,162,Sci-Fi,Zack Snyder,Jackie Earl Haley+Patrick Wilson+Carla Gugino,56
+The Shawshank Redemption,1994,R,142,Drama,Frank Darabont,Tim Robbins+Morgan Freeman+Bob Gunton,80
+Bridge of Spies,2015,PG-13,142,Thriller,Steven Spielberg,Tom Hanks+Mark Rylance+Alan Alda,81
+Spectre,2015,PG-13,148,Action,Sam Mender,Daniel Craig+Christoph Waltz+Lea Seydoux,60
+Joy,2015,PG-13,124,Drama,David O. Russell,Jennifer Lawrence+Robert De Niro+Bradley Cooper,56
+The Dark Knight,2008,PG-13,152,Action,Christopher Nolan,Christian Bale+Heath Ledger+Aaron Eckhart,82
+10 Things I Hate About You,1999,PG-13,97,Romance,Gil Junger,Heath Ledger+Julia Stiles+Joseph Gordon-Levitt,70
+Blue is the Warmest Color,2013,NC-17,180,Romance,Abdellatif Kechiche,Lea Seydoux+Adele Exarchopoulos,88
+500 Days Of Summer,2009,PG-13,95,Romance,Marc Webb,Zooey Deschanel+Joseph Gordon-Levitt,76
+Jurassic World,2015,PG-13,124,Action,Colin Trevorrow,Chris Pratt+Bryce Dallas Howard+Ty Simpkins,59
+Trainwreck,2015,R,125,Romance,Judd Apatow,Amy Schumer+Bill Hader+Brie Larson,75
+Spotlight,2015,R,128,Drama,Tom McCarthy,Mark Ruffalo+Michael Keaton+Rachel McAdams,93
+Mad Max: Fury Road,2015,R,120,Sci-Fi,George Miller,Tom Hardy+Charlize Theron+Nicholas Hoult,90
+The Big Short,2015,R,130,Drama,Adam McKay,Christian Bale+Steve Carell+Ryan Gosling,81
+Deadpool,2016,R,108,Action,Tim Miller,Ryan Reynolds+Morena Baccarin+TJ Miller,65
+Gravity,2013,PG-13,91,Sci-Fi,Alfonso Cuaron,Sandra Bullock+George Clooney+Ed Harris,96
+The Men Who Stare At Goats,2009,R,94,Comedy,Grant Heslov,Ewan McGregor+George Clooney+Kevin Spacey,54
+The Usual Suspects,1995,R,106,Drama,Bryan Singer,Kevin Spacey+Gabriel Byrne+Chazz Palminteri,77
+The Ring,2002,PG-13,105,Horror,Gore Verbinski,Naomi Watts+Martin Henderson+Brian Cox,57
+The Lord of the Rings: The Return of the King,2003,PG-13,201,Adventure,Peter Jackson,Elijah Wood+Viggo Mortensen+Ian McKellen,94
+Van Helsing,2004,PG-13,131,Adventure,Stephen Sommers,Hugh Jackman+Kate Beckinsale+Richard Roxburgh,35
+The Sixth Sense,1999,PG-13,107,Thriller,M. Night Shyamalan,Bruce Willis+Haley Joel Osment+Toni Collette,64
+Showgirls,1995,NC-17,128,Drama,Paul Verhoeven,Elizabeth Berkley+Kyle MacLachlan+Gina Gershon,16
+What Lies Beneath,2000,PG-13,130,Horror,Robert Zemeckis,Harrison Ford+Michelle Pfeiffer,51
+Indiana Jones and the Temple of Doom,1984,PG,118,Adventure,Steven Speilberg,Harrison Ford+Kate Capshaw+Jonathan Ke Quan,57
+Back to the Future,1985,PG,106,Sci-Fi,Robert Zemeckis,Michael J. Fox+Christopher Lloyd+Lea Thompson,86
+Love Actually,2003,R,135,Romance,Richard Curtis,Hugh Grant+Martin McCutcheon+Liam Neeson,55
